@@ -1,6 +1,6 @@
 {
   "name":"BMW-X5MD",
-  "description":"bot whatsapp développé by Ibrahim adams",
+  "description":"bot whatsapp développé by Jin Runcandel",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/7cd9d893413bffb0c5bdb.jpg",
   "repository":"https://github.com/ibrahimaitech/BMW-MD",
@@ -81,7 +81,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "+254739937062,254710772666"
+    "value": "923001276464,923074047707"
   },
     "WARN_COUNT":
   {
